@@ -17,7 +17,7 @@ Um cliente compra um ou mais produtos no site Mercado Livre. O pagamento é real
 Abaixo está o modelo de processo desenvolvido com base na descrição fornecida:
 
 <div align = center>
-<img src="img/diagram (14).svg" alt="Mapeamento do fluxo atual de negócio em BPMN">
+<img src="diagram (14).svg" alt="Mapeamento do fluxo atual de negócio em BPMN">
 </div>
 
 O modelo BPMN desenvolvido representa o processo completo de compra de produtos no site do Mercado Livre, desde a escolha do produto pelo cliente até a liberação ou restituição do pagamento ao vendedor ou ao comprador, respectivamente. O fluxo foi criado utilizando a ferramenta bpmn.io (https://demo.bpmn.io/) e levou em conta a descrição fornecida no desafio proposto, embora algumas decisões de modelagem tenham sido tomadas com base em critérios de clareza e simplicidade.
